@@ -1,5 +1,8 @@
 ### <b>|Olá meu nome é Vinícius Gurgel Serrão|</b>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gurgel-serrao)](https://www.linkedin.com/in/vinicius-gurgel-serrao)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viviserrao03@gmail.com)](mailto:viviserrao03@gmail.com)
 ## <b>||Meus conhecimentos||</b>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGurgel&show_icons=true&count_private=false&include_all_commits=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGurgel&count_private=false&layout=compact&langs_count=7&theme=dracula"/>
