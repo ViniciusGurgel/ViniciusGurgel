@@ -23,6 +23,7 @@
 </div>
 
 
+
 <h2> Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gurgel-serrao)](https://www.linkedin.com/in/vinicius-gurgel-serrao)
