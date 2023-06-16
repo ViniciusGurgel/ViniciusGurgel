@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGurgel&layout=compact&theme=dracula)](https://github.com/ViniciusGurgel/github-readme-stats)
 
 
-<h2> Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Conecte-se comigo <img src='https://i.gifer.com/O3Qk.gif' width="100px"> </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gurgel-serrao)](https://www.linkedin.com/in/vinicius-gurgel-serrao)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viviserrao03@gmail.com)](mailto:viviserrao03@gmail.com)
