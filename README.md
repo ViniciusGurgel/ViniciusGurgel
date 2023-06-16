@@ -5,13 +5,13 @@
    quero trabalhar com programação em python.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGurgel&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGurgel&layout=compact&theme=dracula)](https://github.com/ViniciusGurgel/github-readme-stats)
 
 
 <h2> Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gurgel-serrao)](https://www.linkedin.com/in/vinicius-gurgel-serrao)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viviserrao03@gmail.com)](mailto:viviserrao03@gmail.com)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
