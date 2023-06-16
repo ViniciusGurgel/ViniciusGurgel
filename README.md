@@ -1,4 +1,4 @@
-### <b>|Olá eu sou Vinícius Gurgel Serrão|</b>
+### <b>|Olá meu nome é Vinícius Gurgel Serrão|</b>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGurgel&show_icons=true&count_private=false&include_all_commits=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGurgel&count_private=false&layout=compact&langs_count=7&theme=dracula"/>
 
