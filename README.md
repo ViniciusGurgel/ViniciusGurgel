@@ -1,6 +1,7 @@
 ### <b>|Olá eu sou Vinícius Gurgel Serrão|</b>
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGurgel&show_icons=true&theme=tokyonightmerko)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGurgel&count_private=false&layout=compact&langs_count=7&theme=dracula"/>
 
 ## <b>||Meus conhecimentos||</b>
 
