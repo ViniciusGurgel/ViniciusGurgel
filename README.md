@@ -11,7 +11,7 @@
   <img align="left" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" />
   <img align="left" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" />
   <img align="left" alt="" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" />
-  <img align="left" alt="OPENGL" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" />
+  <img align="left" alt="OPENGL" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="30" />
   <img align="left" alt="MYSQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" />
   <img align="left" alt="GITHUB" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" />
   <img align="left" alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
