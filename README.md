@@ -8,14 +8,20 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGurgel&count_private=false&layout=compact&langs_count=7&theme=dracula"/>
 
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img aling="center" alt="python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img aling="center" alt="C"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img align="left" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" />
+  <img align="left" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" />
+  <img align="left" alt="" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" />
+  <img align="left" alt="OPENGL" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" />
+  <img align="left" alt="MYSQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" />
+  <img align="left" alt="GITHUB" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" />
+  <img align="left" alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
+  <img align="left" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
+  <img align="left" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
 </div>
 
 ## <b>||Minhas IDEs||</b>
 <div style="display: inline_block"><br/>
   <img aling="center" alt="pycharm"src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-  <img aling="center" alt="vscode"src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="left" alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
   
 </div>
