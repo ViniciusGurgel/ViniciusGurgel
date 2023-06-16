@@ -20,8 +20,8 @@
   <img align="left" alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
   <img align="left" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
   <img align="left" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
+   
 </div>
-
 
 
 <h2> Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
