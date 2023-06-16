@@ -1,5 +1,7 @@
 ### <b>|Olá meu nome é Vinícius Gurgel Serrão|</b>
 
+<p>Atualmente estou cursando o terceiro semestre de Ciência da Computação.</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGurgel&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGurgel&layout=compact&theme=dracula)](https://github.com/ViniciusGurgel/github-readme-stats)
 
