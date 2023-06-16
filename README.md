@@ -17,11 +17,6 @@
   <img align="left" alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
   <img align="left" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
   <img align="left" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
-</div>
-
-## <b>||Minhas IDEs||</b>
-<div style="display: inline_block"><br/>
-  <img aling="center" alt="pycharm"src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img align="left" alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
   
 </div>
