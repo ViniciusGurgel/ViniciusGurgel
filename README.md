@@ -1,5 +1,6 @@
 ### <b>|Olá meu nome é Vinícius Gurgel Serrão|</b>
 
+
 <p>Atualmente estou cursando o terceiro semestre de Ciência da Computação.
    Aqui abaixo está um pouco dos meus conhecimentos nessa área, atualmente
    quero trabalhar com programação em python.</p>
